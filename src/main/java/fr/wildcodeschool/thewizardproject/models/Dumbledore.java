@@ -16,7 +16,7 @@ public class Dumbledore implements WizardInterface{
 	@Override
 	public String giveAdvice() {
 		return "HP";
-	}	
+	}
 	
 	@Override
 	public String dress() {
